@@ -1,5 +1,6 @@
 module.exports = {
-	entry: ['./app.js', './global.js'],
+	entry: './react_trial.js',
+	// entry: ['./app.js', './global.js'],
 	output: {
 		filename: 'bundle.js'
 	},
